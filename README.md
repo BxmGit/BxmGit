@@ -1,4 +1,4 @@
-# [Your Full Name] - Cybersecurity Professional
+# Hi, I'm Brad. Welcome to My Portfolio!
 
 ![Professional Photo](URL_TO_YOUR_PHOTO)
 
