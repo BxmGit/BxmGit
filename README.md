@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Brad
+### Hello, I'm Brad. 
 #### Welcome to my online portfolio
 ![Welcome to my online portfolio](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
