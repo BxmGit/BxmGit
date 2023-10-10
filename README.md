@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">🛠 Languages & Tools:</h3>
+![Certification A Badge](https://github.com/BxmGit/BxmGit/blob/main/Images/NetworkPlus%20Logo%20Certified%20CE.png)
 
 
 <h3 align="left">🛠 Languages & Tools:</h3>
