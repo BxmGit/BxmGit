@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bxmgit&label=Profile%20views&color=0e75b6&style=flat" alt="bxmgit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bxmgit" alt="bxmgit" /></a> </p>
-
 📘 **Currently Learning:** Malware Analysis, Digital Forensics, AWS Cloud Operations
 
 👨‍💻 **Portfolio:** [Explore My Projects](https://github.com/BxmGit/Professional-Cyber-Security-Portfolio)
