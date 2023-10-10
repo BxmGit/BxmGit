@@ -6,6 +6,8 @@
 <!-- Title and Description -->
 <h1 align="center">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
+<!-- Contact -->
+<h5 align="center">contact@bradleycumming.com</h5>
 
 <!-- Certifications -->
 <p align="center">
@@ -19,15 +21,6 @@
 👨‍💻 **Portfolio:** [Explore My Projects](https://github.com/BxmGit/Professional-Cyber-Security-Portfolio)  
 🖋 **Blogs:** [Dive into My Insights](https://medium.com/@bxmblogs)
 
-<!-- Contact -->
-📧 **Contact:** contact@bradleycumming.com
-
-<!-- Socials -->
-<p align="left">
-  <a href="https://medium.com/@bxmblogs" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bxmblogs" height="30" width="40" />
-  </a>
-</p>
 <table align="center">
   <tr>
     <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
