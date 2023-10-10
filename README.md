@@ -1,5 +1,5 @@
 <!-- Optional: Banner Image -->
-<img src="https://github.com/BxmGit/BxmGit/blob/main/Images/ski%20mountain%20nodes.png" align="center" />
+<img src="https://github.com/BxmGit/BxmGit/blob/main/Images/Brad%E2%80%99s%20Cyber%20Security%20%26.png" align="center" />
 
 <h1 align="center">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
