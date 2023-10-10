@@ -29,6 +29,13 @@
   </a>
 </p>
 
+| Certification Images | Languages & Tools |
+|----------------------|-------------------|
+| ![Certification 1](URL_FOR_CERTIFICATION_IMAGE_1) | ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
+| ![Certification 2](URL_FOR_CERTIFICATION_IMAGE_2) | ![elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg) |
+
+
+
 <p align="left"> 
   <!-- AWS Icon -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
