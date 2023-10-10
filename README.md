@@ -29,8 +29,6 @@
   </a>
 </p>
 
-| Languages & Tools | ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
-
 <p align="left"> 
   <!-- AWS Icon -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
