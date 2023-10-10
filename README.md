@@ -1,5 +1,5 @@
 <!-- Optional: Banner Image -->
-<img src="URL_TO_YOUR_BANNER_IMAGE" align="center" />
+<img src="https://github.com/BxmGit/BxmGit/blob/main/Images/Scotland%20landscape%20ai%20mountain%20.png" align="center" />
 
 <h1 align="center">🔐 Welcome to Brad's World of Digital Security & Forensics 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland's Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
