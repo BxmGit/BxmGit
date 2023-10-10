@@ -19,7 +19,7 @@
 <a href="https://medium.com/@bxmblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bxmblogs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Languages & Tools:</h3>
+<h3 align="left">Certifications:</h3>
 <img src="https://github.com/BxmGit/BxmGit/blob/main/Images/NetworkPlus%20Logo%20Certified%20CE.png" align="left" width="100" height="100">
 
 <h3 align="left">🛠 Languages & Tools:</h3>
