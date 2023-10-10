@@ -29,10 +29,11 @@
   </a>
 </p>
 
-| Certification Images | Languages & Tools |
-|----------------------|-------------------|
-| ![Certification 1](URL_FOR_CERTIFICATION_IMAGE_1) | ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
-| ![Certification 2](URL_FOR_CERTIFICATION_IMAGE_2) | ![elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg) |
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+|![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)|![elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)|![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)|![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)|![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)|
+|![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)|![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)|![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)|![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)|![pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)|
+|![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)|![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)|![scikit_learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)|![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)|![zapier](https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg)|
 
 | Languages & Tools | ![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
 
