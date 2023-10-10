@@ -1,5 +1,5 @@
 <!-- Optional: Banner Image -->
-<img src="(https://github.com/BxmGit/BxmGit/blob/main/Images/bradzer_Imagine_a_skier_gracefully_descending_the_snow-covered__11134b82-e6f7-43bd-9e8d-a872e0207dcc.png)" align="center" />
+<img src="https://github.com/BxmGit/BxmGit/blob/main/Images/bradzer_Imagine_a_skier_gracefully_descending_the_snow-covered__11134b82-e6f7-43bd-9e8d-a872e0207dcc.png" align="center" />
 
 <h1 align="center">🔐 Welcome to Brad's World of Digital Security & Forensics 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland's Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
