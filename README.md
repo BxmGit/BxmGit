@@ -1,16 +1,8 @@
-<!-- Banner Container -->
-<div style="position: relative; display: inline-block;">
+<!-- Optional: Banner Image -->
+<img src="https://github.com/BxmGit/BxmGit/blob/main/Images/ski%20mountain%20nodes.png" align="center" />
 
-    <!-- Banner Image -->
-    <img src="https://github.com/BxmGit/BxmGit/blob/main/Images/ski%20mountain%20nodes.png" style="display: block; width: 100%; height: auto;"/>
-
-    <!-- Overlay Text -->
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.6); text-align: center; padding: 10px 0;">
-
-        <h1 style="color: white; margin: 0;">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
-        <h3 style="color: white; margin: 0;">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
-    </div>
-</div>
+<h1 align="center">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
+<h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bxmgit&label=Profile%20views&color=0e75b6&style=flat" alt="bxmgit" /> </p>
