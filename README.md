@@ -1,7 +1,7 @@
 <!-- Optional: Banner Image -->
 <img src="https://github.com/BxmGit/BxmGit/blob/main/Images/ski%20mountain%20nodes.png" align="center" />
 
-<h1 align="center">🔐 Welcome to Brad's World of Digital Security & Forensics 🔍</h1>
+<h1 align="center">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland's Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bxmgit&label=Profile%20views&color=0e75b6&style=flat" alt="bxmgit" /> </p>
