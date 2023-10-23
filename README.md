@@ -30,7 +30,6 @@
 
 ### Cybersecurity & Networking
 - **Cyber Network Tools**: [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
-- **Cyber Security Tools**: [View Project](https://github.com/BxmGit/Cyber-Security-Tools)
 - **Cybersecurity and Linux Projects**: [View Project](https://github.com/BxmGit/Cybersecurity-and-Linux-Projects)
 - **Networking Projects**: [View Project](https://github.com/BxmGit/Networking-projects)
 
