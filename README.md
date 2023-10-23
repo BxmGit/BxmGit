@@ -17,6 +17,11 @@
 <!-- Portfolio and Blogs -->
 ## Projects
 
+### Cybersecurity & Networking
+- **Cyber Network Tools**: [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
+- **Cybersecurity and Linux Projects**: [View Project](https://github.com/BxmGit/Cybersecurity-and-Linux-Projects)
+- **Networking Projects**: [View Project](https://github.com/BxmGit/Networking-projects)
+
 ### AI & Machine Learning
 - **AI Ecommerce Product Finder**: [View Project](https://github.com/BxmGit/AI-Ecommerce-Product-Finder)
 - **Machine Learning**: [View Project](https://github.com/BxmGit/AI-and-Machine-Learning)
@@ -25,10 +30,6 @@
 - **Web Scraper**: [View Project](https://github.com/BxmGit/Web-Scraper)
 - **Web Application Development Project**: [View Project](https://github.com/BxmGit/Web-Application-Development-Project)
 
-### Cybersecurity & Networking
-- **Cyber Network Tools**: [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
-- **Cybersecurity and Linux Projects**: [View Project](https://github.com/BxmGit/Cybersecurity-and-Linux-Projects)
-- **Networking Projects**: [View Project](https://github.com/BxmGit/Networking-projects)
 
 ### Virtual Internship
 - **JP Morgan Virtual Internship**: [View Internship](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity)
