@@ -18,7 +18,7 @@
 📘 **Currently Learning:** Malware Analysis, Digital Forensics, AWS Cloud Operations
 
 <!-- Portfolio and Blogs -->
-👨‍💻 **Cyber Network Tools:** [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security))  
+👨‍💻 **Cyber Network Tools:** [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
 🖋 **Blogs:** [Dive into My Insights](https://medium.com/@bxmblogs)
 
 💻 **JP Morgan Virtual Internship:** [JP Morgan Virtual Internship](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity)
