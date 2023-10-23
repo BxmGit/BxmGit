@@ -19,10 +19,14 @@
 
 ### Cybersecurity & Networking
 - **Cyber Network Tools**: [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
+- **ML Phishing Email Classifier**: [View Project](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Ham%20or%20Spam%20-%20Email%20Classifier)
+- **Fraud Detection Visualisation**: [View Project](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Fraud%20Detection%20Visulisation)
 - **Cybersecurity and Linux Projects**: [View Project](https://github.com/BxmGit/Cybersecurity-and-Linux-Projects)
 - **Networking Projects**: [View Project](https://github.com/BxmGit/Networking-projects)
 
+
 ### AI & Machine Learning
+
 - **AI Ecommerce Product Finder**: [View Project](https://github.com/BxmGit/AI-Ecommerce-Product-Finder)
 - **Machine Learning**: [View Project](https://github.com/BxmGit/AI-and-Machine-Learning)
 
