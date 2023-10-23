@@ -7,7 +7,7 @@
 <h1 align="center">🔐 Brad's Digital Security & Forensics Portfolio 🔍</h1>
 <h3 align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Emerging Cybersecurity Enthusiast 🌍 | Delving Deep into the Digital Realm 🛡️</h3>
 
-<p align="center"> Hi, I'm a 3rd-year Digital Security and Forensics student, specialized in cyber threat analysis, digital investigations, and ensuring robust security protocols. With solid academic achievements in network security and digital forensics methodologies, I'm passionate about transferring my theoretical understanding into real-world applications. I'm currently on the lookout for hands-on internships where I can not only contribute to digital security solutions but also enrich my practical insights.
+<p align="center"> Hi, I'm a 3rd-year Digital Security and Forensics student, specializing cyber threats, digital investigations, and ensuring robust security protocols. I'm currently on the lookout for hands-on internships where I can not only contribute to digital security solutions but also enrich my practical insights.
 
 <!-- Certifications -->
 <p align="center">
