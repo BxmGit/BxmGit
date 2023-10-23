@@ -14,9 +14,6 @@
   <img src="https://github.com/BxmGit/BxmGit/blob/main/Images/NetworkPlus%20Logo%20Certified%20CE.png" alt="NetworkPlus Logo Certified CE" width="100" height="100">
 </p>
 
-<!-- Current Learning -->
-📘 **Currently Learning:** Malware Analysis, Digital Forensics, AWS Cloud Operations
-
 <!-- Portfolio and Blogs -->
 ## Projects
 
