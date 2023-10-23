@@ -20,6 +20,7 @@
 <!-- Portfolio and Blogs -->
 👨‍💻 **Portfolio:** [Explore My Projects](https://github.com/BxmGit/Professional-Cyber-Security-Portfolio)  
 🖋 **Blogs:** [Dive into My Insights](https://medium.com/@bxmblogs)
+🖋 **JP Morgan Virtual Internship:** [Dive into My Insights](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity)
 
 <table align="center">
   <tr>
