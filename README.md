@@ -18,10 +18,33 @@
 📘 **Currently Learning:** Malware Analysis, Digital Forensics, AWS Cloud Operations
 
 <!-- Portfolio and Blogs -->
-👨‍💻 **Cyber Network Tools:** [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
-🖋 **Blogs:** [Dive into My Insights](https://medium.com/@bxmblogs)
+## Projects
 
-💻 **JP Morgan Virtual Internship:** [JP Morgan Virtual Internship](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity)
+### AI & Machine Learning
+- **AI Ecommerce Product Finder**: [View Project](https://github.com/BxmGit/AI-Ecommerce-Product-Finder)
+- **Machine Learning**: [View Project](https://github.com/BxmGit/AI-and-Machine-Learning)
+
+### Web Development
+- **Web Scraper**: [View Project](https://github.com/BxmGit/Web-Scraper)
+- **Web Application Development Project**: [View Project](https://github.com/BxmGit/Web-Application-Development-Project)
+
+### Cybersecurity & Networking
+- **Cyber Network Tools**: [Explore Tools](https://github.com/BxmGit/Cyber-Security-Tools/tree/main/Network%20Security)
+- **Cyber Security Tools**: [View Project](https://github.com/BxmGit/Cyber-Security-Tools)
+- **Cybersecurity and Linux Projects**: [View Project](https://github.com/BxmGit/Cybersecurity-and-Linux-Projects)
+- **Networking Projects**: [View Project](https://github.com/BxmGit/Networking-projects)
+
+### Virtual Internship
+- **JP Morgan Virtual Internship**: [View Internship](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity)
+
+### Python Projects
+- **Python Projects**: [View Projects](https://github.com/BxmGit/Python-Projects)
+
+## Blogs & Articles
+- **Blogs on Medium**: [Dive into My Insights](https://medium.com/@bxmblogs)
+
+## Personal Website
+- [Bradley Cumming's Portfolio](https://www.bradleycumming.com)
 
 
 <table align="center">
